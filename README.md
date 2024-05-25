@@ -5,6 +5,8 @@
 - Enable NIST800-53 regulatory compliance on Microsoft Defender for Cloud.
 
 NOTE: Enabling NIST800-53 and allowing the rules to import will take around 12 hours to complete.
+
+VMs can be off for this lab.
 #
 
 <h3>Enabling NIST800-53</h3>
